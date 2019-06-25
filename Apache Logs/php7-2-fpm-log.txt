@@ -1,0 +1,13 @@
+[18-Feb-2019 22:55:22] NOTICE: fpm is running, pid 4069
+[18-Feb-2019 22:55:22] NOTICE: ready to handle connections
+[18-Feb-2019 22:55:22] NOTICE: systemd monitor interval set to 10000ms
+[19-Feb-2019 03:23:05] NOTICE: Terminating ...
+[19-Feb-2019 03:23:05] NOTICE: exiting, bye-bye!
+[19-Feb-2019 03:23:05] NOTICE: fpm is running, pid 8341
+[19-Feb-2019 03:23:05] NOTICE: ready to handle connections
+[19-Feb-2019 03:23:05] NOTICE: systemd monitor interval set to 10000ms
+[19-Feb-2019 03:23:57] NOTICE: Terminating ...
+[19-Feb-2019 03:23:57] NOTICE: exiting, bye-bye!
+[19-Feb-2019 03:23:58] NOTICE: fpm is running, pid 9671
+[19-Feb-2019 03:23:58] NOTICE: ready to handle connections
+[19-Feb-2019 03:23:58] NOTICE: systemd monitor interval set to 10000ms
